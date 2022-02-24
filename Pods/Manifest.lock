@@ -1,0 +1,67 @@
+PODS:
+  - Alamofire (5.5.0)
+  - ESPullToRefresh (2.9.3)
+  - PlaceholderTextField (0.1.5):
+    - PlaceholderTextField/Core (= 0.1.5)
+    - SnapKit
+    - SwiftRichString
+    - Then
+  - PlaceholderTextField/Core (0.1.5):
+    - SnapKit
+    - SwiftRichString
+    - Then
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SDWebImage (5.12.3):
+    - SDWebImage/Core (= 5.12.3)
+  - SDWebImage/Core (5.12.3)
+  - SnapKit (5.0.1)
+  - SVProgressHUD (2.2.5)
+  - SwiftRichString (3.7.2)
+  - Then (2.7.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - ESPullToRefresh
+  - PlaceholderTextField
+  - RxCocoa
+  - RxSwift
+  - SDWebImage
+  - SnapKit
+  - SVProgressHUD
+  - Then
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ESPullToRefresh
+    - PlaceholderTextField
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SnapKit
+    - SVProgressHUD
+    - SwiftRichString
+    - Then
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  ESPullToRefresh: 0d68daa602b343c81753a1b95e09fd0bfcddfd40
+  PlaceholderTextField: fde66e1a07a6f22a22d5504aded98a0976436ca0
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SDWebImage: 53179a2dba77246efa8a9b85f5c5b21f8f43e38f
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftRichString: d61b807db1f8834c26fee92b6dd3e1be2dc5af03
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+
+PODFILE CHECKSUM: 38bb96860767c7853996a4e2d831f1408a711d3f
+
+COCOAPODS: 1.11.2
